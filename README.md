@@ -1,1 +1,5 @@
 ### Howdy 👋
+
+I work remotely in Austin TX for Red Hat as the dev lead for the [PatternFly core](//github.com/patternfly/patternfly) team. [PatternFly](//patternfly.org) is Red Hat's application design system, and PatternFly core is the base HTML/CSS implementation of the design system. My team takes ideas from designers and turns them into static, HTML/CSS components, complete with usage and accessibility documentation. The core components are designed to be able to be able to be implemented in any framework. [PatternFly React](//github.com/patternfly/patternfly-react) is the officially supported javascript implementation of PatternFly that takes components from core and turns them into functional react components, ready to be used in an application.
+
+In my spare time, I like to ride my motorcycle, do jigsaw puzzles, crossword puzzles, all sorts of puzzles, go rock climbing, build things with my hands, take care of plants, lift weights, listen to people who have wisdom to share, and spend time with friends and family.
